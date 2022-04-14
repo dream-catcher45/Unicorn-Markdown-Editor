@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Unicorn-Markdown-Editor/static/css/main.7bf518ee.chunk.css",
+    "main.js": "/Unicorn-Markdown-Editor/static/js/main.45946491.chunk.js",
+    "main.js.map": "/Unicorn-Markdown-Editor/static/js/main.45946491.chunk.js.map",
+    "runtime~main.js": "/Unicorn-Markdown-Editor/static/js/runtime~main.29f411b0.js",
+    "runtime~main.js.map": "/Unicorn-Markdown-Editor/static/js/runtime~main.29f411b0.js.map",
+    "static/js/2.d24629ce.chunk.js": "/Unicorn-Markdown-Editor/static/js/2.d24629ce.chunk.js",
+    "static/js/2.d24629ce.chunk.js.map": "/Unicorn-Markdown-Editor/static/js/2.d24629ce.chunk.js.map",
+    "index.html": "/Unicorn-Markdown-Editor/index.html",
+    "precache-manifest.eba75ae00f78dded30b9a12434e73eea.js": "/Unicorn-Markdown-Editor/precache-manifest.eba75ae00f78dded30b9a12434e73eea.js",
+    "service-worker.js": "/Unicorn-Markdown-Editor/service-worker.js",
+    "static/css/main.7bf518ee.chunk.css.map": "/Unicorn-Markdown-Editor/static/css/main.7bf518ee.chunk.css.map"
+  }
+}

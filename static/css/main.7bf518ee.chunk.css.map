@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,gBACE,UAAW,CACX,WACF,CAGA,KACE,iBACF","file":"main.7bf518ee.chunk.css","sourcesContent":["html, body, #root {\n  width: 100%;\n  height: 100%;\n}\n\n\n.App {\n  text-align: center;\n}"]}
